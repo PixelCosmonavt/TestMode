@@ -1,0 +1,6 @@
+{
+  "Name": "TestMode",
+  "Description": "Проверка",
+  "MaxPlayers": 8,
+  "RoundTime": 60
+}
